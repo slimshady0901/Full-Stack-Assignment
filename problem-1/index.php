@@ -53,6 +53,6 @@
     <input type="email" name="email" placeholder="Email">
     <input type="submit" name="submitbutton" placeholder="Submit" value="Submit">
     </form>
-    <h3>submitted by Nav Jindal (B-33)</h6>
+    <h3> </h6>
 </body>
 </html>
